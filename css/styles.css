@@ -9,6 +9,10 @@
   }
 } */
 
+#my-brand {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .alt-color {
   background-color: #F2F2F2;
 }
@@ -29,4 +33,15 @@ footer {
   padding-top: 2em;
   margin-left: auto;
   margin-right: auto;
+}
+
+#autohide-navbar {
+  /* Make it stick/fixed */
+  position: fixed;
+  /* Stay on top */
+  top: 0;
+  width: 100%;
+  /* Transition effect when sliding down (and up) */
+  transition: top 0.3s;
+
 }
