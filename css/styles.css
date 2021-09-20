@@ -19,12 +19,16 @@
 
 .subtitle1 {
   text-align: center;
-  color: blue;
+  color: #4D64AE;
+  font-size: x-large;
+  font-weight: 600;
 }
 
 .subtitle2 {
   text-align: center;
-  color: red;
+  color: #CA3C32;
+  font-size: x-large;
+  font-weight: 600;
 }
 
 footer {
