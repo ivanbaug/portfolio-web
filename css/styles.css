@@ -47,5 +47,6 @@ footer {
   width: 100%;
   /* Transition effect when sliding down (and up) */
   transition: top 0.3s;
+  z-index: 1200;
 
 }
