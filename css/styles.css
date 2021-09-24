@@ -88,6 +88,10 @@ footer {
   transform: translateX(0);
 }
 
+.carousel-indicators {
+  bottom: -40px;
+}
+
 /* Container max width */
 @media (min-width: 992px) {
   .container {
@@ -159,4 +163,8 @@ footer {
   left: -.3125rem;
   height: .625rem;
   width: .625rem; */
+}
+
+.icon-link {
+  vertical-align: text-top;
 }
